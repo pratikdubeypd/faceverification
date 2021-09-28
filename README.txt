@@ -1,0 +1,1 @@
+A face verification module which compares the faces present in 2 images.

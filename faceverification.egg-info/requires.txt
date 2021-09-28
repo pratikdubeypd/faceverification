@@ -1,0 +1,12 @@
+keras
+numpy>=1.9.1
+scipy>=0.14
+h5py
+pillow
+mtcnn
+
+[tf]
+tensorflow
+
+[tf_gpu]
+tensorflow-gpu

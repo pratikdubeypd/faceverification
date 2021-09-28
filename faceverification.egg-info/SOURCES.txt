@@ -1,0 +1,10 @@
+LICENSE.txt
+README.txt
+setup.py
+faceverification/FaceVerification.py
+faceverification/__init__.py
+faceverification.egg-info/PKG-INFO
+faceverification.egg-info/SOURCES.txt
+faceverification.egg-info/dependency_links.txt
+faceverification.egg-info/requires.txt
+faceverification.egg-info/top_level.txt
