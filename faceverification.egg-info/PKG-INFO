@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: faceverification
-Version: 0.1.0
+Version: 1.0
 Summary: A Face Verification module using keras VGGFace
 Home-page: UNKNOWN
 Author: Pratik Dubey

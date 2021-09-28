@@ -10,7 +10,7 @@ classifiers = [
 
 setup(
     name='faceverification',
-    version='0.1.0',
+    version='1.0',
     description='A Face Verification module using keras VGGFace',
     long_description='A face verification module which compares the faces present in 2 images. This is the initial release.',
     url='',  
@@ -22,7 +22,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         'keras', 'numpy>=1.9.1', 'scipy>=0.14', 'h5py', 
-        'pillow', 'mtcnn'
+        'pillow', 'mtcnn', 'keras-vggface'
     ],
     extras_require={
         "tf": ["tensorflow"],

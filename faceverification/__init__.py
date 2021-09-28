@@ -1,1 +1,1 @@
-from .FaceVerification import create_box, extract_face, get_embeddings, compare_faces
+from .FaceVerification import detect_face, create_box, extract_face, get_embeddings, compare_faces

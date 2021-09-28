@@ -4,6 +4,7 @@ scipy>=0.14
 h5py
 pillow
 mtcnn
+keras-vggface
 
 [tf]
 tensorflow
